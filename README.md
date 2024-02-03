@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans SHADOW-UTILS-0 :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>CHSH.PAS</b></td>
+			<td>Cette commande permet de changer l'interpréteur de commande par défaut.</td>
+		</tr>
+		<tr>
 			<td><b>USERDEL.PAS</b></td>
 			<td>Cette commande permet de supprimer un utilisateur du système.</td>
 		</tr>  
