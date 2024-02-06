@@ -15,6 +15,10 @@ Voici la liste des différents fichiers proposés dans SHADOW-UTILS-0 :
 			<td>Cette commande permet de changer l'interpréteur de commande par défaut.</td>
 		</tr>
 		<tr>
+			<td><b>GROUPDEL.PAS</b></td>
+			<td>Cette commande permet de supprimer un groupe système.</td>
+		</tr>		
+		<tr>
 			<td><b>USERDEL.PAS</b></td>
 			<td>Cette commande permet de supprimer un utilisateur du système.</td>
 		</tr>  
