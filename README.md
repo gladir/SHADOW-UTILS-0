@@ -27,6 +27,10 @@ Voici la liste des différents fichiers proposés dans SHADOW-UTILS-0 :
 			<td>Cette commande permet d'afficher les groupes d'un utilisateur.</td>
 		</tr>	
 		<tr>
+			<td><b>LASTLOG.PAS</b></td>
+   			<td>Cette commande permet d'afficher la dernière connexion d'un utilisateur spécifié ou de tous les utilisateurs.</td>
+		</tr>
+		<tr>
 			<td><b>USERDEL.PAS</b></td>
 			<td>Cette commande permet de supprimer un utilisateur du système.</td>
 		</tr>  
